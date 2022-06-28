@@ -4,7 +4,7 @@
 #
 Name     : pypi-pyxdameraulevenshtein
 Version  : 1.7.0
-Release  : 7
+Release  : 8
 URL      : https://files.pythonhosted.org/packages/aa/e8/53d212009d6d40fdd98ef41585e5442812323d145aa47f507996093567f2/pyxDamerauLevenshtein-1.7.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/aa/e8/53d212009d6d40fdd98ef41585e5442812323d145aa47f507996093567f2/pyxDamerauLevenshtein-1.7.0.tar.gz
 Summary  : pyxDamerauLevenshtein implements the Damerau-Levenshtein (DL) edit distance algorithm for Python in Cython for high performance.
@@ -71,7 +71,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1656378424
+export SOURCE_DATE_EPOCH=1656403377
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
